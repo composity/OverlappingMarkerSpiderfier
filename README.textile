@@ -1,5 +1,11 @@
 h1. Overlapping Marker Spiderfier for Google Maps API v3
 
+h2. The purpose of this fork
+
+This repository is a fork of "jawj/OverlappingMarkerSpiderfier":https://github.com/jawj/OverlappingMarkerSpiderfier. It contains _no modification_ to the original source code, but includes a bower package file and a compiled and minified Javascript file for you to use.
+
+h2. Overlapping Marker Spiderfier — say what?
+
 *Ever noticed how, in "Google Earth":http://earth.google.com, marker pins that overlap each other spring apart gracefully when you click them, so you can pick the one you meant?*
 
 *And ever noticed how, when using the "Google Maps API":http://code.google.com/apis/maps/documentation/javascript/, the same thing doesn't happen?*
@@ -22,7 +28,7 @@ That might be what you want. However, it probably *isn't* what you want (or isn'
 
 h2. Demo
 
-See the "demo map":https://jawj.github.io/OverlappingMarkerSpiderfier/demo.html (the data is random: reload the map to reposition the markers).
+See the "demo map":http://jawj.github.com/OverlappingMarkerSpiderfier/demo.html (the data is random: reload the map to reposition the markers).
 
 h2. Download
 
