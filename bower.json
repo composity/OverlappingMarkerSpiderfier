@@ -4,7 +4,7 @@
   "main": "dist/oms.min.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:pesla/OverlappingMarkerSpiderfier.git"
+    "url": "git@github.com:composity/OverlappingMarkerSpiderfier.git"
   },
   "homepage": "https://github.com/pesla/OverlappingMarkerSpiderfier",
   "authors": [
